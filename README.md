@@ -23,7 +23,8 @@ What's on my Image Editor
 5. contrast slider
 6. Back to menu button
 ##### Password Generator view
-![image](https://github.com/user-attachments/assets/your-image-link.png)
+![Знімок екрана 2025-06-27 122911](https://github.com/user-attachments/assets/701197b9-bc93-426b-9dfb-029fe0359a68)
+
 
 What's on my Password Generator:
 1. checkbox for lowercase letters (a-z)
@@ -35,7 +36,7 @@ What's on my Password Generator:
 7. Generate button
 8. Copy button
 9. Back to menu button
-###### Art Pixel Lab View
+###### Art View
 ![image](https://github.com/user-attachments/assets/b39b7f7c-5e31-4fe2-88fa-a111ea409aa0)
 
 What's in this window:
