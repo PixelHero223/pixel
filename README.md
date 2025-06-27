@@ -12,3 +12,12 @@ What's on my menu
 
 What's on my calculator
 A standard calculator that can perform various calculations. The only difference from a typical calculator is the presence of a "Back to Menu" button.
+#### Image Editor view
+![image](https://github.com/user-attachments/assets/d28a06ae-926c-47a2-8544-7a8023645153)
+
+What's on my Image Editor
+1. button open imege
+2. button rotate 90°
+3. button black-white
+4. button marking
+5. contrast slider
