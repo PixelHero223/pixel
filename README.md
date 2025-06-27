@@ -21,3 +21,28 @@ What's on my Image Editor
 3. button black-white
 4. button marking
 5. contrast slider
+6. Back to menu button
+##### Password Generator view
+![image](https://github.com/user-attachments/assets/your-image-link.png)
+
+What's on my Password Generator:
+1. checkbox for lowercase letters (a-z)
+2. checkbox for uppercase letters (A-Z)
+3. checkbox for digits (0-9)
+4. checkbox for special characters (!@#$...)
+5. slider to set password length
+6. label that shows current length
+7. Generate button
+8. Copy button
+9. Back to menu button
+###### Art Pixel Lab View
+![image](https://github.com/user-attachments/assets/b39b7f7c-5e31-4fe2-88fa-a111ea409aa0)
+
+What's in this window:
+1. "Choose File" button — used to upload an image
+2. Style options:
+   1. Original — shows the uploaded image as-is
+   2. Minecraft — applies a Minecraft pixelated effect
+   3. Pop Art — applies a Pop Art artistic filter
+   4. Embroidery — applies a cross-stitch effect
+3. "Back to Menu" button — returns to the main menu
